@@ -1,0 +1,1 @@
+Projede local.properties dosyasında kendi sdk yolları yazılmalı (yardımcı olur : https://stackoverflow.com/questions/27620262/sdk-location-not-found-define-location-with-sdk-dir-in-the-local-properties-fil)
